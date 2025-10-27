@@ -7,7 +7,7 @@
 - 😄 Pronouns: **She/Her/Dragon**
 - ⚡ Fun fact: **I'm a proud momma.**
 
-![Talon's GitHub stats](https://github-readme-stats.vercel.app/api?username=talondragon000&theme=catpuccin_mocha&show_icons=true)
+![Talon's GitHub stats](https://github-readme-stats.vercel.app/api?username=talondragon000&theme=tokyonight&show_icons=true)
 
 <!--
 **TalonDragon000/TalonDragon000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
