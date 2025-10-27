@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Talon! 👋
+
+- 🔭 I’m currently working on **Web3SetGo!**
+- 🌱 I’m currently learning Smart Contracts with **Cyfrin Updraft and Alchemy.**
+- 💬 Ask me about **anything web3 and art**!
+- 📫 How to reach me: **Check out my socials**.
+- 😄 Pronouns: **She/Her/Dragon**
+- ⚡ Fun fact: **I'm a proud momma.**
+
+![Talon's GitHub stats](https://github-readme-stats.vercel.app/api?username=talondragon000&theme=catpuccin_mocha&show_icons=true)
 
 <!--
 **TalonDragon000/TalonDragon000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
