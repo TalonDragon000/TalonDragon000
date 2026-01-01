@@ -1,6 +1,6 @@
 ## Hi, I'm Talon! 👋
 
-- 🔭 I’m currently working on **Web3SetGo!**
+- 🔭 I’m currently working on **ProjectHub**
 - 🌱 I’m currently learning Smart Contracts with **Cyfrin Updraft and Alchemy.**
 - 💬 Ask me about **anything web3 and art**!
 - 📫 How to reach me: **Check out my socials**.
